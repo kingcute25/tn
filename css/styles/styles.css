@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://cdn.shopify.com/s/files/1/1308/7983/articles/36353392_custom_540x.jpg?v=1574157298);
+    
+}
+img{
+    width: 350px;
+}
+h1{
+    color: maroon;
+}
+p{
+    color: black;
+    font-size-adjust: inherit;
+}
